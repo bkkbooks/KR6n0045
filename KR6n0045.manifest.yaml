@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6n0045/v1
+canonical_location: https://kanripo.org/bkk/KR6n0045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論證義
+  identifiers:
+    alt_id:
+    - X50n0822
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X50/X50n0822.xml
+    old_id: X50n0822
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0045_000.yaml, hash: 'sha256:5f19ff99769e0bfd09352330ee47ac654ecc64457b2a41de8ffeda0082fae700'}
+  - {seq: 1, filename: KR6n0045_001.yaml, hash: 'sha256:c55cfd7ab9102193baef779928205c05c2a373b52ee49fbaee66b9b64b2a5ffe'}
+  - {seq: 2, filename: KR6n0045_002.yaml, hash: 'sha256:022c1eb80411bbd1772a48a9f2f3857e6064f53603ed7609876b4fa8cbd0e6be'}
+  - {seq: 3, filename: KR6n0045_003.yaml, hash: 'sha256:ab5325363925357978993f6362966149b21d5b34b42ac72c949d64e80b15dd8e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0045_000.markers.yaml, hash: 'sha256:47070f88f5fe25c47f03b9e1f87073b6e68ab320591b89c4a46e4c3e0ea71f3e'}
+  - {seq: 1, role: markers, filename: assets/KR6n0045_001.markers.yaml, hash: 'sha256:eb5aff706a601321b0467ada2b472a376e3ffededa4cf9401bac19afdbaba31a'}
+  - {seq: 2, role: markers, filename: assets/KR6n0045_002.markers.yaml, hash: 'sha256:89613d5cb20f8cdb5d5f7e2aa7a388f680465190f4e07875e3b3da1e185ec3bb'}
+  - {seq: 3, role: markers, filename: assets/KR6n0045_003.markers.yaml, hash: 'sha256:0f682660d805dd141f84bfb3fec648b532c151a25228f5b512160476c9f60fd9'}
+table_of_contents: []
+hash: sha256:a4f7fb62305b7a876c4089d4b800fbb767bcdf2b7244202cd2dfae1955d8b506
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
