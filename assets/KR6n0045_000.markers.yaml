@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6n0045/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6n0045_X_000-0829a, ed: X, 'n': 0829a, source_xml_id: X50.0822.0829a}
   - {type: line-break, offset: 0, content: '', id: KR6n0045_X_000-0829a01, ed: X, 'n': 0829a01}
   - {type: line-break, offset: 0, content: '', id: KR6n0045_X_000-0829a02, ed: X, 'n': 0829a02}
@@ -449,6 +449,5 @@ markers:
   - {type: line-break, offset: 1469, content: '', id: KR6n0045_X_000-0830b06, ed: X, 'n': 0830b06}
   - {type: line-break, offset: 1469, content: '', id: KR6n0045_X_000-0648a01, ed: R081, 'n': 0648a01}
   - {type: 其他, offset: 1469, content: 成唯識論證義, id: KR6n0045_X_000-mulu-2, level: '1'}
-  body: []
   back: []
-hash: sha256:1295c4b6c5018c0a0847da6bd5e95c0ea5027cad4b011a12562e83a1b8c4c6e4
+hash: sha256:9e19ff969afd315e9d2cad0a08f7114cd0f675a7bce797d21c508802de8067f6
